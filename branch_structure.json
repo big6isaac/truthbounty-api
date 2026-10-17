@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-639-prewave-be-044-add-freshness-and-dependency"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-639-prewave-be-044-add-freshness-and-dependency": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-639-prewave-be-044-add-freshness-and-dependency"
+  ]
+}
